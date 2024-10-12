@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu Perfil😁
+## Olá, mundo! Eu sou o Grandé. Bem-vindo ao meu GitHub!😁
 
 <div>
    <a href="https://github.com/GrandeMatheus">

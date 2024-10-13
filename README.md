@@ -1,12 +1,20 @@
-## HI! 😁
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<div>
-   <a href="https://github.com/GrandeMatheus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrandeMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandeMatheus&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+###
 
-## My Techs:
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Hi there! I'm Matheus Grandé 👋, a passionate web developer transitioning from a 13-year career in logistics 🏗️ to the world of tech 🌐. Currently, I'm in the final semester of my Systems Analysis and Development degree 🎓 and focusing on becoming a skilled front-end developer.
+
+I have experience working with HTML, CSS, and JavaScript 💻, and I'm always eager to learn more and take on new challenges. My goal is to blend my management experience 🛠️ with my technical skills to create innovative solutions.
+
+🚀 Check out my projects and feel free to reach out if you'd like to collaborate!.</p>
+
+###
+
+<h2 align="left">Languages I'm Learning 📚</h2>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,9 +24,19 @@
   
 </div>
 
+###
+
+<div>
+   <a href="https://github.com/GrandeMatheus">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrandeMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandeMatheus&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+
 <br>
 
-## Meus contatos!
+## 
+<h2 align="left"> Get in Touch 📬</h2>
 
 <div> 
   <a href="https://www.instagram.com/stories/matheusgrande_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

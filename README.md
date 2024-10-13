@@ -43,7 +43,7 @@ I have experience working with HTML, CSS, and JavaScript 💻, and I'm always ea
   <a href="https://www.instagram.com/stories/matheusgrande_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:matheusgrande91@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusgrandegoncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/19h579bf_klIvRJOmCf7WywI-cydaqzzb/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-Currículo-pt-BR-%23FF5722?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/19h579bf_klIvRJOmCf7WywI-cydaqzzb/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-Currículo_ptBR-%23FF5722?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank"></a>
 </div>
 
 ###

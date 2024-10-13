@@ -45,3 +45,9 @@ I have experience working with HTML, CSS, and JavaScript 💻, and I'm always ea
   <a href="https://www.linkedin.com/in/matheusgrandegoncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://drive.google.com/file/d/19h579bf_klIvRJOmCf7WywI-cydaqzzb/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23FF5722?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank"></a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/grandematheus/grandematheus/output/snake.svg" alt="Snake animation" />
+
+###

@@ -22,7 +22,7 @@ I have experience working with HTML, CSS, and JavaScript 💻, and I'm always ea
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-logo-light.svg">
-    <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tailwind_CSS_Logo.svg">
+    <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 </div>
   
 

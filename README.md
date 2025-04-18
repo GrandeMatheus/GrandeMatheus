@@ -26,7 +26,7 @@ I have experience working with HTML, CSS, and JavaScript 💻, and I'm always ea
 
   <!-- Frameworks e Libs -->
   <img align="center" alt="Astro" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
-  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
 

@@ -41,18 +41,19 @@ Currently working with modern front-end technologies and continuously improving 
 
 ---
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 
-<div align="left">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=grandematheus&show_icons=true&theme=radical&hide_border=true"
-    height="170" />
+    height="170"
+  />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandematheus&layout=compact&theme=radical&hide_border=true"
-    height="170" />
+    height="170"
+  />
 </div>
-
 ---
 
 <h2 align="left">📬 Contact</h2>

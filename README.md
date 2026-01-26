@@ -39,7 +39,7 @@ Currently working with modern front-end technologies and continuously improving 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
 </div>
 
----
+
 
 <h2>📈 GitHub Stats</h2>
 

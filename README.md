@@ -22,45 +22,21 @@ Currently working with modern front-end technologies and continuously improving 
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-
-  <img align="center" alt="HTML5" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS3" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="JavaScript" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="React" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <img align="center" alt="Astro" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
-
-  <img align="center" alt="TailwindCSS" height="40" width="40"
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-
-  <img align="center" alt="Vite" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
-
-  <img align="center" alt="Python" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="Git" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-  <img align="center" alt="GitHub" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-  <img align="center" alt="VS Code" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
-  <img align="center" alt="Figma" height="40" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
 </div>
 
 ---
